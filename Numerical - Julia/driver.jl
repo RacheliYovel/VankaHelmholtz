@@ -1,6 +1,6 @@
 using KrylovMethods
 using Helmholtz
-using jInv.Mesh
+using jInv.Mesh # https://github.com/JuliaInv/jInv.jl.git
 using PyPlot
 
 close("all")
