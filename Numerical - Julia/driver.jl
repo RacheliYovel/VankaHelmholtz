@@ -1,5 +1,5 @@
 using KrylovMethods # https://github.com/JuliaInv/KrylovMethods.jl.git
-using Helmholtz
+using Helmholtz # https://github.com/JuliaInv/Helmholtz.jl.git
 using jInv.Mesh # https://github.com/JuliaInv/jInv.jl.git
 using PyPlot
 
