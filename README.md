@@ -10,4 +10,4 @@ https://github.com/JuliaInv/KrylovMethods.jl.git
 https://github.com/JuliaInv/Helmholtz.jl.git               
 https://github.com/JuliaInv/jInv.jl.git    
 (These links also appear in the documentation of the relevant file).
-Then run the file "driver.jl" in a folder containing the other files. The numerical results will appear by order. For the last tables and figures, you might need to verify that your machine has at least 32 GB RAM for the code to run.
+Then run the file "driver.jl" in a folder containing the other files. The numerical results for each table or figure from the paper will be printed on the screen by order. For the last tables and figures, you might need to verify that your machine has at least 32 GB RAM for the code to run.
