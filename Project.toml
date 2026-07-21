@@ -1,0 +1,10 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FactoredEikonalFastMarching = "a21af1b0-b122-11e9-3f46-a5fb68b7f21f"
+Helmholtz = "e64c32b0-b297-11e9-3d04-db45b5588c0d"
+KrylovMethods = "9a2cd570-f05c-5dc1-9209-93ad6f5727f7"
+Multigrid = "3ee21790-adf8-11e9-0909-2103a2f09851"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
+jInv = "3dacf901-f8cd-5544-86ed-7a705f85c244"
