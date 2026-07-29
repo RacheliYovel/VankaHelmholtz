@@ -1,0 +1,13 @@
+Smoother,Levels,Iterations,Time
+Jac+ElementVanka,3,20,45.2116008
+Jac+ElementVanka,4,45,96.6257779
+Jac+ElementVanka,5,69,147.6755909
+Jac+ElementVanka,6,68,145.9797327
+Jacobi,3,22,49.9984935
+Jacobi,4,76,158.6997183
+Jacobi,5,173,381.3113768
+Jacobi,6,214,446.7590844
+ElementVanka,3,18,90.1405794
+ElementVanka,4,41,498.7392159
+ElementVanka,5,65,693.4354481
+ElementVanka,6,64,735.0790476

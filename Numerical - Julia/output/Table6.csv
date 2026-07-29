@@ -1,0 +1,4 @@
+Smoother,Grid,Frequency,L3,L4,L5
+Jacobi+Vanka,128x128x40,2.56pi,12 (7.98),19 (14.83),NA
+,,,,,
+Jacobi,128x128x40,2.56pi,13 (3.94),25 (8.41),NA
