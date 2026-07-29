@@ -1,0 +1,4 @@
+smoother,damping,rho
+ElementVanka,0.97,0.210874891320398
+PlusVanka,0.87,0.336934049251865
+RBVanka,0.83,0.547163931337813
