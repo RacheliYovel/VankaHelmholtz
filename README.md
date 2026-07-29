@@ -26,9 +26,11 @@ you can find a pinned Juia environment for which the code should run.
 - Table 4: run the file Numerical - Julia\experiments\table4.jl and the resulting table would appear as Numerical - Juliaoutput\Table4.csv
 
 - Table 5: run the file Numerical - Julia\experiments\table5.jl and the resulting table would appear as Numerical - Julia\output\Table5.csv
+* note that this table contains timing results that can very between dofferent machines and experiments
 
 - Table 6: This experiment require using the overthrust model (SEG), first read the instructions on the end of this document and run the experiment only after the file Numerical - Julia\experiments\BenchmarkModels\3DOverthrust801801187.dat is saved.
 Next, run the file Numerical - Julia\experiments\table6.jl and the resulting table would appear as Numerical - Juliaoutput\Table6.csv
+* note that this table contains timing results that can very between dofferent machines and experiments
 
 - Figure 5: this figure requires data both from the Matlab LFA code and the Julia numerical code. 
 First run the file LFA - Matlab\experiments\figure5.m and the LFA data will appear as LFA - Matlab\output\Figure5_LFA.m. 
@@ -48,10 +50,12 @@ Then run the file Numerical - Julia\experiments\plotFigure9.jl and the plots wil
 
 - Figure 10: run the file Numerical - Julia\experiments\figure10a.jl and then the file  Numerical - Julia\experiments\figure10b.jl and the resulting data would appear as Numerical - Julia\output\Figure10a.csv and in the same location Figure10b_Jacobi.csv and Figure10b_Vanka.csv.
 Then run the file Numerical - Julia\experiments\plotFigure10.jl and the plots will be saved as Numerical - Julia\output\Figure10a.png and Figure10b.png.
+* note that this figure contains timing results that can very between dofferent machines and experiments
 
 - Figure 12: This experiment require using the overthrust model (SEG), first read the instructions on the end of this document and run the experiment only after the file Numerical - Julia\experiments\BenchmarkModels\3DOverthrust801801187.dat is saved. 
 Now, run the file Numerical - Julia\experiments\figure12.jl and the resulting data would appear as Numerical - Julia\output\Figure12.csv.
 Then run the file Numerical - Julia\experiments\plotFigure12.jl and the plots will be saved as Numerical - Julia\output\Figure12.png.
+* note that this table contains timing results that can very between dofferent machines and experiments
 
 
 
